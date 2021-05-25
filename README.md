@@ -1,4 +1,4 @@
-This project is built on Flutter framework. It uses Firebase Auth, Cloud Firestore, sqflite(for database) in backend.
+This project is built on Flutter framework. It basicially focuses on six main academic areas:
 
 ![Alt text](gif/demo.gif)
 
